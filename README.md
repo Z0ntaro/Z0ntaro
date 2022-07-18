@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zontaro
 - 👀 How can I interest you ? 
-- 🌱 I’m currently persuing b.tech
+- 🌱 I’m currently pursuing b.tech
 - 📫 reach me at arghyadeep0786gmail.com
 
 <!---
