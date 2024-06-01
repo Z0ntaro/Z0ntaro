@@ -33,7 +33,7 @@ Reach-me-at: arghyadeep0786gmail.com
 
 <h2 align="left">⛱️ &nbsp; Hacktober Fest Badges <img src = "https://media.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif" width = 35px></h2>
 
-[![An image of @Arghya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/z0ntaro)](https://holopin.io/@z0ntaro)
+[![An image of @Arghya's IBM Skills Build badges, which is a link to view their full Credly profile](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="afdbd59e-6e01-4568-af21-0321fcf35c03" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
 
 <h2 align="left">📚 &nbsp; Languages and Tools <img src = "https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" width = 45px></h2>
 
