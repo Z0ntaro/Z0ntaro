@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg)"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg"></p>
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Arghyadeep%20Paul&width=1200&height=180)](https://github.com/z0ntaro/svg-banners)
 <p align="center"><img align = "center" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"></p>
