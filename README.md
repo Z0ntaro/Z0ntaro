@@ -31,9 +31,10 @@ Reach-me-at: arghyadeep0786gmail.com
 <a href="https://discord.gg/https://discord.gg/rxQ9YDx6be" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rxQ9YDx6be" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">⛱️ &nbsp; Hacktober Fest Badges <img src = "https://media.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif" width = 35px></h2>
+<h2 align="left">⛱️ &nbsp; Badges <img src = "https://media.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif" width = 35px></h2>
 
-[![An image of @Arghya's IBM Skills Build badges, which is a link to view their full Credly profile]<a href="https://www.credly.com/badges/afdbd59e-6e01-4568-af21-0321fcf35c03/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/680x680/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png" alt="c" width="40" height="40"/> </a>
+[![An image of @Arghya's IBM Skills Build badges, which is a link to view their full Credly profile]
+<p><a href="https://www.credly.com/badges/afdbd59e-6e01-4568-af21-0321fcf35c03/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/680x680/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png" alt="c" width="70" height="70"/> </a></p>
 
 <h2 align="left">📚 &nbsp; Languages and Tools <img src = "https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" width = 45px></h2>
 
