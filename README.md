@@ -8,7 +8,7 @@
 <hr>
 <h3 align="center">Clean code always looks like it was written by someone who cares.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=z0ntaro&label=Profile%20visits&color=0e75b6&style=flat" alt="Arghyadeep Paul"/> </p>
-<img align = "right" alt="coding" width="450" src="https://camo.githubusercontent.com/517d7d9be188f60a11e5eefb57c94fb8b0582e5d6f93ca5c3fead5973bd6c74c/68747470733a2f2f692e696d6775722e636f6d2f3741355a66504a2e676966">
+<img align = "right" alt="coding" width="400" src="https://camo.githubusercontent.com/517d7d9be188f60a11e5eefb57c94fb8b0582e5d6f93ca5c3fead5973bd6c74c/68747470733a2f2f692e696d6775722e636f6d2f3741355a66504a2e676966">
 
 ```yaml
 Name: Arghyadeep Paul
@@ -21,6 +21,15 @@ Other-Hobbies: Singing, Chess, Gaming
 Reach-me-at: arghyadeep0786gmail.com
 ```
 
+<h2 align="left">🚀️ &nbsp; About Me <img src = "https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width = 40px></h2>
+			<article>
+                <p><strong>Third Year, Bachelor of Technology Computer Science Engineering Student 💻🎓</strong> I'm passionate about computer programming and love exploring new tech. Besides coding, I enjoy video editing and creating dynamic PowerPoint presentations. </p>
+                <ul>
+                    <li>  Music is my lifeline, and I love watching movies. </li>
+                    <li>  I'm a sports enthusiast, especially football and cricket, and enjoy playing cricket, chess, and video games. </li>                   
+                    <li>  In my free time, I play the guitar and sing. I also have a strong interest in planning and designing.</li>
+                </ul>
+            </article>
 <h2 align="left">🧑🏻‍💻 &nbsp; Connect with me <img src = "https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width = 50px></h2>
 <p align="left">
 <a href="https://codepen.io/Z0ntaro" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="halcyon_past" height="30" width="120" /></a>
@@ -34,7 +43,7 @@ Reach-me-at: arghyadeep0786gmail.com
 
 <h2 align="left">⛱️ &nbsp; Badges <img src = "https://media.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif" width = 35px></h2>
 
-[An image of @Arghya's IBM Skills Build badges, which is a link to view their full Credly profile]
+An image of @Arghya's IBM Skills Build badges, which is a link to view their full Credly profile
 <p><a href="https://www.credly.com/badges/afdbd59e-6e01-4568-af21-0321fcf35c03/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/680x680/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png" alt="c" width="100" height="100"/> </a></p>
 
 
