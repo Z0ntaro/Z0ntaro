@@ -11,7 +11,7 @@
 <img align = "right" alt="coding" width="420" src="https://camo.githubusercontent.com/517d7d9be188f60a11e5eefb57c94fb8b0582e5d6f93ca5c3fead5973bd6c74c/68747470733a2f2f692e696d6775722e636f6d2f3741355a66504a2e676966">
 
 ```yaml
-<u>BIO</u>
+BIO
 Name: Arghyadeep Paul
 Occupation: Student
 Stream:	Computer Science Engineering
