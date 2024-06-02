@@ -8,18 +8,17 @@
 <hr>
 <h3 align="center">Clean code always looks like it was written by someone who cares.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=z0ntaro&label=Profile%20visits&color=0e75b6&style=flat" alt="Arghyadeep Paul"/> </p>
-<img align = "right" alt="coding" width="460" src="https://camo.githubusercontent.com/517d7d9be188f60a11e5eefb57c94fb8b0582e5d6f93ca5c3fead5973bd6c74c/68747470733a2f2f692e696d6775722e636f6d2f3741355a66504a2e676966">
+<img align = "right" alt="coding" width="420" src="https://camo.githubusercontent.com/517d7d9be188f60a11e5eefb57c94fb8b0582e5d6f93ca5c3fead5973bd6c74c/68747470733a2f2f692e696d6775722e636f6d2f3741355a66504a2e676966">
 
 ```yaml
-BIO
 Name: Arghyadeep Paul
 Occupation: Student
 Stream:	Computer Science Engineering
 University: JIS Sur Institute of Technology, Kolkata
-Interests: DBMS, Planning & designing, WebDev
+Interests: DBMS, WebDev
 Currently-Learning: Javascript, CSS, MongoDB
 Other-Hobbies: Singing, Chess, Gaming
-Reach-me-at: arghyadeep0786@gmail.com
+Reach-me-at: arghyadeep0786gmail.com
 ```
 
 <h2 align="left">🚀️ &nbsp; About Me  <img src = "https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width = 55px></h2>
@@ -28,15 +27,15 @@ Reach-me-at: arghyadeep0786@gmail.com
                 <ul>
                     <li>  Music is my lifeline, and I love watching movies. </li>
                     <li>  I'm a sports enthusiast, especially football and cricket, and enjoy playing cricket, chess, and video games. </li>                   
-                    <li>  In my free time, I play my guitar and sing. I also have a strong interest in planning and designing.</li>
+                    <li>  In my free time, I play the guitar and sing. I also have a strong interest in planning and designing.</li>
                 </ul>
             </article>
 <h2 align="left">🧑🏻‍💻 &nbsp; Connect with me  <img src = "https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width = 50px></h2>
 <p align="left">
-<a href="https://codepen.io/Z0ntaro" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="halcyon_past" height="30" width="120" /></a>
-<a href="https://www.linkedin.com/in/arghyadeep-paul-039445204/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aritro Saha" height="30" width="120" /></a>
-<a href="https://twitter.com/z0ntaro" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="halcyon_past" height="30" width="100" /></a>
-<a href="https://instagram.com/z0ntaro" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="halcyon_past" height="30" width="120" /></a>
+<a href="https://codepen.io/Z0ntaro" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="z0ntaro" height="30" width="120" /></a>
+<a href="https://www.linkedin.com/in/arghyadeep-paul-039445204/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Arghyadeep Paul" height="30" width="120" /></a>
+<a href="https://twitter.com/z0ntaro" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="z0ntaro" height="30" width="100" /></a>
+<a href="https://instagram.com/z0ntaro" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="z0ntaro" height="30" width="120" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arghyadeep0786/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arghyadeep0786/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/rxQ9YDx6be" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rxQ9YDx6be" height="30" width="40" /></a>
 </p>
