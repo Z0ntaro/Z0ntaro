@@ -19,7 +19,7 @@ University: JIS Sur Institute of Technology, Kolkata
 Interests: DBMS, Planning & designing, WebDev
 Currently-Learning: Javascript, CSS, MongoDB
 Other-Hobbies: Singing, Chess, Gaming
-Reach-me-at: arghyadeep0786gmail.com
+Reach-me-at: arghyadeep0786@gmail.com
 ```
 
 <h2 align="left">🚀️ &nbsp; About Me  <img src = "https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width = 55px></h2>
