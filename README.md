@@ -27,7 +27,7 @@ Reach-me-at: arghyadeep0786gmail.com
                 <ul>
                     <li>  Music is my lifeline, and I love watching movies. </li>
                     <li>  I'm a sports enthusiast, especially football and cricket, and enjoy playing cricket, chess, and video games. </li>                   
-                    <li>  In my free time, I play the guitar and sing. I also have a strong interest in planning and designing.</li>
+                    <li>  In my free time, I play my guitar and sing. I also have a strong interest in planning and designing.</li>
                 </ul>
             </article>
 <h2 align="left">🧑🏻‍💻 &nbsp; Connect with me  <img src = "https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width = 50px></h2>
