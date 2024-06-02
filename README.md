@@ -8,7 +8,7 @@
 <hr>
 <h3 align="center">Clean code always looks like it was written by someone who cares.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=z0ntaro&label=Profile%20visits&color=0e75b6&style=flat" alt="Arghyadeep Paul"/> </p>
-<img align = "right" alt="coding" width="420" src="https://camo.githubusercontent.com/517d7d9be188f60a11e5eefb57c94fb8b0582e5d6f93ca5c3fead5973bd6c74c/68747470733a2f2f692e696d6775722e636f6d2f3741355a66504a2e676966">
+<img align = "right" alt="coding" width="460" src="https://camo.githubusercontent.com/517d7d9be188f60a11e5eefb57c94fb8b0582e5d6f93ca5c3fead5973bd6c74c/68747470733a2f2f692e696d6775722e636f6d2f3741355a66504a2e676966">
 
 ```yaml
 BIO
