@@ -3,7 +3,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Arghyadeep%20Paul&width=1200&height=180)](https://github.com/z0ntaro/svg-banners)
 <p align="center"><img align = "center" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"></p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hey+Arghyadeep+this+side!!;Nice+to+see+you+here;I%27m+a+undergrad+who+loves+coding;Striving+each+day+to+become+better;Feel+free+to+checkout+my+repos;Hope+to+see+you+again!!+%E2%9D%A3%EF%B8%8F alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hey+Arghyadeep+this+side!!;Nice+to+see+you+here;I%27m+a+undergrad+who+loves+coding;Striving+each+day+to+become+better;Feel+free+to+checkout+my+repos;Hope+to+see+you+again!!+%E2%9D%A3%EF%B8%8F+alt="Typing SVG" />
 </p>
 <hr>
 <h3 align="center">Clean code always looks like it was written by someone who cares.</h3>
