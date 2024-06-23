@@ -1,11 +1,12 @@
 <p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg"></p>
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Arghyadeep%20Paul&width=1200&height=180)](https://github.com/z0ntaro/svg-banners)
-<p align="center"><img align = "center" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"></p>
+<hr>
+<!--<p align="center"><img align = "center" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"></p>-->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hey+Arghyadeep+this+side!!;Nice+to+see+you+here;I%27m+a+undergrad+who+loves+coding;Striving+each+day+to+become+better;Feel+free+to+checkout+my+repos;Hope+to+see+you+again!!+%E2%9D%A3%EF%B8%8F "Typing SVG" />
 </p>
-<hr>
+
 <h3 align="center">Clean code always looks like it was written by someone who cares.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=z0ntaro&label=Profile%20visits&color=0e75b6&style=flat" alt="Arghyadeep Paul"/> </p>
 <img align = "right" alt="coding" width="420" src="https://camo.githubusercontent.com/517d7d9be188f60a11e5eefb57c94fb8b0582e5d6f93ca5c3fead5973bd6c74c/68747470733a2f2f692e696d6775722e636f6d2f3741355a66504a2e676966">
@@ -37,7 +38,7 @@ Reach-me-at: arghyadeep0786gmail.com
 <a href="https://twitter.com/zontaro_ai" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="z0ntaro" height="30" width="100" /></a>
 <a href="https://instagram.com/zontaro.ai" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="z0ntaro" height="30" width="120" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arghyadeep0786/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arghyadeep0786/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/rxQ9YDx6be" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rxQ9YDx6be" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/rxQ9YDx6be" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
 </p>
 
 
@@ -66,7 +67,7 @@ An image of @Arghya's IBM Skills Build badges, which is a link to view their ful
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=z0ntaro&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h2></h2>
+<hr>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thanks%20For%20Visiting&reversal=true&section=footer&fontAlign=50&animation=twinkling&strokeWidth=1"/>
