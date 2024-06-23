@@ -54,11 +54,17 @@ An image of @Arghya's IBM Skills Build badges, which is a link to view their ful
 
 <h2> 📈 &nbsp;My GitHub History! <img src = "https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width = 35px></h2>
 
-![Arghya's GitHub stats](https://github-readme-stats.vercel.app/api?username=z0ntaro&show_icons=true&theme=transparent&hide_border=true&text_color=#ab20fd)
+![Arghya's GitHub stats](https://github-readme-stats.vercel.app/api?&show_icons=true&theme=transparent&hide_border=true&text_color=#ab20fd)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=z0ntaro&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z0ntaro&layout=compact&theme=transparent&hide_border=true&show_icons=true )
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=urfavaries2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=urfavaries2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <h2></h2>
 
