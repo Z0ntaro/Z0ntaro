@@ -15,7 +15,7 @@
 Name: Arghyadeep Paul
 Occupation: Student
 Stream:	Computer Science Engineering
-University: JIS Sur Institute of Technology, Kolkata
+University: Maulana Abul Kalam Azad University of Technology, West Bengal
 Interests: DBMS, WebDev
 Currently-Learning: Javascript, CSS, MongoDB
 Other-Hobbies: Singing, Chess, Gaming
