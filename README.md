@@ -17,7 +17,7 @@ Occupation: Student
 Stream:	Computer Science Engineering
 University: Maulana Abul Kalam Azad University of Technology, West Bengal
 Interests: DBMS, WebDev
-Currently-Learning: Javascript, CSS, MongoDB
+Currently-Learning: Javascript, React
 Other-Hobbies: Singing, Chess, Gaming
 Reach-me-at: arghyadeep0786gmail.com
 ```
