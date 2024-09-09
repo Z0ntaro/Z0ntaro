@@ -46,7 +46,7 @@ Reach-me-at: arghyadeep0786gmail.com
 
 An image of @Arghya's IBM Skills Build badges, which is a link to view their full Credly profile
 <p><a href="https://www.credly.com/badges/afdbd59e-6e01-4568-af21-0321fcf35c03/public_url" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/680x680/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png" alt="c" width="100" height="100"/> </a>
-<a href="https://drive.google.com/file/d/1_mI2IllooPPQkxGMVjXSGXGRzmegnCi8/view" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/u/0/drive-viewer/AKGpihZQb0vOOPKQPKOla0X92CbNq_BVioPB70S7JnxNWjAojSrhoIVSkmzxUlIjGHtgdD7lELMkSNSTbvWqbCeVpCA2oVKrQF7ywG8=s1600-rw-v1" alt="c" width="100" height="100"/> </a>
+<a href="https://drive.google.com/file/d/1_mI2IllooPPQkxGMVjXSGXGRzmegnCi8/view" target="_blank" rel="noreferrer"> <img src="https://ibb.co/vz5wgDR" alt="c" width="100" height="100"/> </a>
 </p>
 
 
